@@ -3363,10 +3363,10 @@ three-bmfont-text@^3.0.1:
     object-assign "^4.0.1"
     quad-indices "^2.0.1"
 
-three-pixel-font@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/three-pixel-font/-/three-pixel-font-0.0.8.tgz#616a98d32283131f138feaa33cc49d4c4b21465e"
-  integrity sha512-Y7SxIqMXGTy/5plxyc09gTzusbrxf0cDm4BNhzY8meACih7r79t/ESZVCVgxmVl9ehBsyWmh8BgOtfdptGMffA==
+three-pixel-font@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/three-pixel-font/-/three-pixel-font-0.0.9.tgz#546da611fbfdb432c0e9b643568eff6dd6083525"
+  integrity sha512-/X70VQY6F9459HI6sxbCtSCd892li+9xZMuPnf18dS7PRB0M5PCrWvecd0bd1Uq3wi7iF3cYD74DYAL8/JjFDQ==
   dependencies:
     buffer "^6.0.3"
     performance-polyfill "^0.0.3"

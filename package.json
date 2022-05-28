@@ -40,7 +40,7 @@
   },
   "peerDependencies": {
     "three": "^0.134.0",
-    "three-pixel-font": "^0.0.8"
+    "three-pixel-font": "^0.0.9"
   },
   "devDependencies": {
     "@types/node": "^17.0.31",
@@ -62,7 +62,7 @@
     "source-map-loader": "^3.0.0",
     "three": "^0.134.0",
     "three-bmfont-text": "^3.0.1",
-    "three-pixel-font": "^0.0.8",
+    "three-pixel-font": "^0.0.9",
     "threejs-camera-controller-first-person-desktop": "^5.0.1",
     "ts-loader": "^9.2.5",
     "ts-node": "^10.2.1",
