@@ -1517,6 +1517,11 @@ get-intrinsic@^1.0.2, get-intrinsic@^1.1.0, get-intrinsic@^1.1.1:
     has "^1.0.3"
     has-symbols "^1.0.1"
 
+get-port@^6.1.2:
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/get-port/-/get-port-6.1.2.tgz#c1228abb67ba0e17fb346da33b15187833b9c08a"
+  integrity sha512-BrGGraKm2uPqurfGVj/z97/zv8dPleC6x9JBNRTrDNtCkkRF4rPwrQXFgL7+I+q8QSdU4ntLQX2D7KIxSy8nGw==
+
 get-stream@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
@@ -3358,10 +3363,10 @@ three-bmfont-text@^3.0.1:
     object-assign "^4.0.1"
     quad-indices "^2.0.1"
 
-three-pixel-font@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/three-pixel-font/-/three-pixel-font-0.0.6.tgz#6fdb0bb10d78b8f849ba5835542791474d063a5a"
-  integrity sha512-BfxJEJklX0Zkaw6X3AskWF4LQVPbGnoiBQo+Z5Xut06GMXtFAlc4FSVtILV+Bz8dv3dYIZz19oPzoNm1eGMj8A==
+three-pixel-font@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/three-pixel-font/-/three-pixel-font-0.0.8.tgz#616a98d32283131f138feaa33cc49d4c4b21465e"
+  integrity sha512-Y7SxIqMXGTy/5plxyc09gTzusbrxf0cDm4BNhzY8meACih7r79t/ESZVCVgxmVl9ehBsyWmh8BgOtfdptGMffA==
   dependencies:
     buffer "^6.0.3"
     performance-polyfill "^0.0.3"
